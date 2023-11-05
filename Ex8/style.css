@@ -1,0 +1,11 @@
+div{
+    text-align: center; 
+    position: relative;
+    background-color: aqua;
+    margin: 20px;
+    padding: 10px;
+}
+
+body{
+    background-color: antiquewhite;
+}

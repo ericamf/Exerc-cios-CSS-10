@@ -1,0 +1,14 @@
+
+#externo{ width: 100%;
+    background-color: gray;
+    border: solid 5px gray
+}
+
+
+#interno { width: 60%;
+    text-align: center;
+    background-color: aqua;
+    margin: 10%;
+    padding: 10%;
+    border: solid 2px black; 
+}
